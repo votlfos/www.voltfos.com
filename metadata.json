@@ -1,0 +1,8 @@
+{
+  "name": "Voltfos Sdn Bhd - Engineering & Technical Solutions",
+  "description": "Premier Malaysian engineering company specializing in Electrical & Mechanical Systems, Lightning Protection, Surge Suppression, Earthing, and Critical Power Solutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
